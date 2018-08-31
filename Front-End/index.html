@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IEVV CG</title>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!--Javascript-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+    <script>
+        function getCaminho(){
+            return "http://localhost:8000/api/d56b699830e77ba53855679cb1d252da/9b7c68a918b17eb053809b198d7c9abfc142f30a";
+        }
+        function mostraValor() {
+            alert($('#login').val());
+        }
+
+        $(document).ready(function(){
+            $("#formLogin").submit(function(){
+                var caminho = getCaminho();
+                $.getJSON(caminho,{
+                    login: $('#login').val(),
+                    senha: $('#senha').val(),
+                },consele.log());
+                var b = 0;
+                var a = 2;
+                var c = a+b;
+            });
+
+        });
+    </script>
+
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <center><h1>IEVV</h1></center>
+    <p>Faça login para iniciar a sessão.</p>
+    <div class="row">
+        <div class="col"></div>
+        <div class="col">
+            <form id="formLogin" method="post">
+                <input type="text" id="login" name="login" placeholder="Login" required>
+                <input type="password" id="senha" name="senha" placeholder="Password" required>
+                <button id="btnLogar">Login</button>
+            </form>
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+<div class="container-fluid">
+    <h2>Listagem Retorno</h2>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Login</th>
+            <th>Token</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td id="td_id"></td>
+            <td id="td_login"></td>
+            <td id="td_token"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbb0ec10-12cf-4c2c-868e-9cbb70e1c14b" name="Default Changelist" comment="first commit" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Server/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1540798845">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.124" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.162" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="default(0)" value="1" />
+          <entry key="env" value="4" />
+          <entry key="html" value="4" />
+          <entry key="http" value="2" />
+          <entry key="java" value="3" />
+          <entry key="jpg" value="8" />
+          <entry key="js" value="3" />
+          <entry key="lock" value="1" />
+          <entry key="pessoa" value="1" />
+          <entry key="php" value="242" />
+          <entry key="png" value="6" />
+          <entry key="sql" value="2" />
+          <entry key="users" value="1" />
+          <entry key="usuario" value="7" />
+          <entry key="usuarios" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="5" />
+          <entry key="Database Element" value="14" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="14" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PHP" value="237" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Scratch" value="4" />
+          <entry key="yarn.lock" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="57" />
+          <entry key="env" value="71" />
+          <entry key="html" value="271" />
+          <entry key="js" value="65" />
+          <entry key="php" value="7770" />
+          <entry key="sql" value="37" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="271" />
+          <entry key="JavaScript" value="65" />
+          <entry key="PHP" value="7770" />
+          <entry key="PLAIN_TEXT" value="136" />
+          <entry key="Scratch" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Servidor/app/AcessoPermissao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+              <folding>
+                <element signature="e#40#64#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$job</find>
+      <find>$valida</find>
+      <find>message</find>
+      <find>$retorno</find>
+      <find>$usuario</find>
+      <find>alt</find>
+      <find>blue</find>
+      <find>pessoa</find>
+      <find>$login</find>
+      <find>$pessoa</find>
+      <find>$visitante</find>
+      <find>usuario/</find>
+      <find>UsuarioController</find>
+      <find>DB::table('users')</find>
+      <find>DB::</find>
+      <find>DB::table('pessoa')</find>
+      <find>$cript</find>
+      <find>visitante/</find>
+      <find>email</find>
+      <find>../../</find>
+      <find>'$departamento.'</find>
+      <find>'5b9f3257ab6a7a150f20f7d4f228559b/</find>
+      <find>/{token}</find>
+      <find>'e540cdd1328b2b21e29a95405c301b9313b7c346'</find>
+      <find>'9b7c68a918b17eb053809b198d7c9abfc142f30a'</find>
+      <find>'9fb29051f2217270a7b253a39f820310d85a78f0'</find>
+      <find>'9fb29051f2217270a7b253a39f820310d85a78f0</find>
+      <find>'0a25ba5991316bdda4a9b3abcee2106016df28a0</find>
+      <find>'6870010883a79e8b2a508909dc21a05cc8ff73b8</find>
+      <find>token</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pessoa</replace>
+      <replace>PessoaController</replace>
+      <replace>50</replace>
+      <replace>50'</replace>
+      <replace>$visitante</replace>
+      <replace>$permissao</replace>
+      <replace>mensagem</replace>
+      <replace>$pessoa</replace>
+      <replace>login</replace>
+      <replace>$usuario</replace>
+      <replace>$departamento</replace>
+      <replace>departamento/</replace>
+      <replace>DB::table('usuarios')</replace>
+      <replace>DepartamentoController</replace>
+      <replace>DB::table('pessoas')</replace>
+      <replace>$valida</replace>
+      <replace>f8032d5cae3de20fcec887f395ec9a6a/</replace>
+      <replace>f7b391b19acafeb16ba6f1e4676a617e/</replace>
+      <replace>5b9f3257ab6a7a150f20f7d4f228559b/</replace>
+      <replace>cab5a031f5506b862b7487f987edbd68/</replace>
+      <replace>$departamento.'</replace>
+      <replace>$pessoa.'</replace>
+      <replace>$index</replace>
+      <replace>$create</replace>
+      <replace>$show.'</replace>
+      <replace>$update.'</replace>
+      <replace>$destroy.'</replace>
+      <replace>chave</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server/app/AcessoPermissao.php" />
+        <option value="$PROJECT_DIR$/Server/database/migrations/2018_08_11_214910_create_pessoa_table.php" />
+        <option value="$PROJECT_DIR$/Server/app/Pessoa.php" />
+        <option value="$PROJECT_DIR$/Server/app/Http/Controllers/UsuarioController.php" />
+        <option value="$PROJECT_DIR$/Server/app/Http/Controllers/VisitanteController.php" />
+        <option value="$PROJECT_DIR$/Server/.env" />
+        <option value="$PROJECT_DIR$/Server/app/Http/Controllers/PessoaController.php" />
+        <option value="$PROJECT_DIR$/Server/routes/api.php" />
+        <option value="$PROJECT_DIR$/Client/custom_js/global.js" />
+        <option value="$PROJECT_DIR$/Client/custom_js/login.js" />
+        <option value="$PROJECT_DIR$/Server/app/Http/Controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_213118_create_usuario_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_220723_create_password_resets_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_212026_create_pessoa_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_221042_create_pessoa_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_221012_create_password_resets_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/Servidor/.env" />
+        <option value="$PROJECT_DIR$/Servidor/app/User.php" />
+        <option value="$PROJECT_DIR$/Servidor/routes/web.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_20_231451_create_departamento_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_21_171648_create_departamento_membros_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_220943_create_users_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Departamento.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Pessoa.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/seeds/PessoaSeeder.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_221042_create_pessoas_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_220943_create_usuarios_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_20_231451_create_departamentos_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192925_create_departamentos_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192549_create_pessoas_table.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bce518f2-0615-43c5-a4e2-c9eb93744157/console_1.sql" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_193012_create_departamento_membros_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/Client/login.html" />
+        <option value="$PROJECT_DIR$/Client/index.html" />
+        <option value="$PROJECT_DIR$/Client/home.html" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/DepartamentoController.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/PessoaController.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/UsuarioController.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/VisitanteController.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192851_create_usuarios_table.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Criptografia.php" />
+        <option value="$PROJECT_DIR$/Servidor/database/seeds/UsuariosSeeder.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Usuario.php" />
+        <option value="$PROJECT_DIR$/Servidor/routes/api.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/AcessoPermissao.php" />
+        <option value="$PROJECT_DIR$/Servidor/app/Http/Controllers/LoginController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Servidor/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Server/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Server/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Server/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Server/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Server/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Server/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Server/vendor/composer" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Server/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Server/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Server/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Server/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Server/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Server/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Server/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Server/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Server/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Server/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Server/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Server/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Server/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Server/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Server/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Server/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Server/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Server/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Server/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Server/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Server/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Server/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Server/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Server/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Server/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Server/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Server/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Server/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Server/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Server/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Server/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Server/vendor/swiftmailer/swiftmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Juncao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Juncao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juncao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Juncao" type="462c0819:PsiDirectoryNode" />
+              <item name="Servidor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juncao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Juncao" type="462c0819:PsiDirectoryNode" />
+              <item name="Servidor" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juncao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Juncao" type="462c0819:PsiDirectoryNode" />
+              <item name="Servidor" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juncao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Juncao" type="462c0819:PsiDirectoryNode" />
+              <item name="Servidor" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Desenvolvimento\Juncao\Client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb0ec10-12cf-4c2c-868e-9cbb70e1c14b" name="Default Changelist" comment="" />
+      <created>1534020195540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534020195540</updated>
+      <workItem from="1534020202677" duration="852000" />
+      <workItem from="1534021189783" duration="6612000" />
+      <workItem from="1534186661606" duration="8134000" />
+      <workItem from="1534203799612" duration="1812000" />
+      <workItem from="1534221900723" duration="2156000" />
+      <workItem from="1534269129033" duration="37376000" />
+      <workItem from="1534443102538" duration="10408000" />
+      <workItem from="1534455652405" duration="3930000" />
+      <workItem from="1534530739771" duration="4195000" />
+      <workItem from="1534793809511" duration="27673000" />
+      <workItem from="1535049730565" duration="3771000" />
+      <workItem from="1535468458161" duration="66000" />
+      <workItem from="1535470438130" duration="1862000" />
+      <workItem from="1535497176751" duration="21573000" />
+      <workItem from="1535690620129" duration="561000" />
+      <workItem from="1535692041377" duration="621000" />
+      <workItem from="1535737881893" duration="409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="132011000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3276923" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.46769232" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.13313162" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.64153844" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="mit -m &quot;first commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2014_10_12_000000_create_users_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_220723_create_password_resets_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_212026_create_pessoa_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/config/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_221012_create_password_resets_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/Auth/ResetPasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/Auth/ForgotPasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/HomeController.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/default(0)" />
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296" />
+      </provider>
+    </entry>
+    <entry file="das://bce518f2-0615-43c5-a4e2-c9eb93744157/schema/juncao/table/users" />
+    <entry file="file://$PROJECT_DIR$/Servidor/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelagem/Departamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/User.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Pessoa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="33" column="26" selection-start-line="11" selection-start-column="8" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/seeds/PessoasSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_221042_create_pessoas_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_16_220943_create_usuarios_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_20_231451_create_departamentos_table.php" />
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_21_171648_create_departamento_membros_table.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bce518f2-0615-43c5-a4e2-c9eb93744157/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192925_create_departamentos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_193012_create_departamento_membros_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192549_create_pessoas_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/vendor/laravel/framework/src/Illuminate/Http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="499" column="20" selection-start-line="499" selection-start-column="20" selection-end-line="499" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/home.html" />
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/VisitanteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="128" column="32" selection-start-line="128" selection-start-column="32" selection-end-line="128" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/UsuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/seeds/UsuariosSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/database/migrations/2018_08_22_192851_create_usuarios_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/DepartamentoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2672">
+          <caret line="158" lean-forward="true" selection-end-line="158" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Departamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Criptografia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/PessoaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/Http/Controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bce518f2-0615-43c5-a4e2-c9eb93744157/schema/juncao/table/usuarios">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servidor/app/AcessoPermissao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
